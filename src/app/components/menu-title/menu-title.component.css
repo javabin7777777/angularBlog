@@ -1,0 +1,14 @@
+.menu__title__container {
+   color:#fff;
+}
+.menu__title__container > h1 {
+   display: flex;
+   justify-content: center;   
+   margin: 15px auto;
+   font-size: 135px;
+   font-family: 'Arial';
+   font-weight: 800;
+}
+.menu__title__container > hr {
+   margin: 25px auto;
+}
