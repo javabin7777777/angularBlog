@@ -10,6 +10,7 @@ export class SmallCardComponent implements OnInit {
   smallPhoto: string='';
   @Input()
   smallTitle: string='';
+  Id: string='0';
   /*
   url:string='https://pokeapi.co/api/v2/pokemon?offset=0&limit=4'
   getPokemons=fetch(this.url).then(response => response.json()).
